@@ -1,3 +1,3 @@
-# macOS-Setup
+# macOS: Initial Setup and Recommended Apps
 
-To be updated with macOS App Lists and easy setup commands/files.
+Work in progress outlining macOS App I use/recommend, as well as my initial system setup choices.
